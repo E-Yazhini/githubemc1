@@ -1,1 +1,14 @@
 This looks like a job for me
+first create a repositary in github
+them to move into local that is vs code
+type git clone and copy the url and run
+then repositary will move to vs code
+then cd githubemc1
+// git pull will insert all the changes made in git hub
+//but for changes made in vs code
+first make the cahnges then file---> save/auto save
+type git add "file name"
+type git commit -m "comments" (impt maintain the spaces)
+type git push origin main
+// origin is the code line or url that we copy during cloning
+// main is the subfolder in gituhub that has the files
